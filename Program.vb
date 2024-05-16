@@ -1,7 +1,7 @@
 Public Class Student
         Public Name As String
-        Public Emp_id As Integer
-        Public salary As Char
+        Public stu_id As Integer
+        Public address As Char
 
         ' Constructor to initialize the Employee object
         Public Sub New(name As String, stu_id As Integer, address As Char)
